@@ -15,7 +15,7 @@
 from setuptools import setup, find_packages
 
 setup(name='nt_svcutils',
-      version = '2.13.1dev',
+      version = '2.14.0.dev0',
       url='http://pypi.python.org/pypi/nt_svcutils',
       license='ZPL 2.1',
       description="nt_svcutils for Zope2.",
